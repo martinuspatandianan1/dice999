@@ -36,7 +36,7 @@ $banner = "{$biru}
 +MNmmd+.                                  .+dmmNM+
 +MMMNmmmdhyssssssssssssssssssssssssssssyhdmmmNMMM+
 :hhhhhyyyssssssssssssssssssssssssssssssssyyyhhhhh:
-\n{$putih}";
+\n{$biru}";
 
 function dices($send, $coki){
 $ch = curl_init('https://faucetpay.io/dice/play');
