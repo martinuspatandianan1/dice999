@@ -3,8 +3,8 @@
 //Warna//
 $merah = "\033[0;31m";
 $biru = "\033[1;34m";
-$kuning = "\033[0;33m";
-$ijo = "\033[0;32m";
+$ijo = "\033[0;33m";
+$kuning = "\033[0;32m";
 $putih = "\033[0;37m";
 //end Warna//
 @error_reporting(0);
